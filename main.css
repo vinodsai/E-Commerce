@@ -1,0 +1,21 @@
+.jumbotron {
+  background: url('images/photo-1446884810792-076dc2307826.jpg') repeat fixed 100%;
+  background-size: cover;
+  text-align: center;
+  padding: 250px;
+}
+.jumbotron h1 {
+  color: white;
+  font-style: italic;
+}
+.jumbotron p {
+  color: white;
+  font-style: italic;
+}
+.btn-default {
+  background: transparent;
+  border-color: transparent;
+  font-size: 20px;
+  color: rgba(217, 83, 79, 0.01);
+  font-style: italic;
+}
